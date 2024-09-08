@@ -1,5 +1,3 @@
-# 💫 About Me:
-👯 I’m looking to collaborate on: Open-source projects, particularly in the areas of microservices, RESTful APIs, or full-stack development using Spring Boot and Angular.<br><br>🤝 I’m looking for help with: Optimizing complex system architectures, implementing cutting-edge DevOps practices, or integrating advanced security features into Spring Boot applications.<br><br>🌱 I’m currently learning: Advanced cloud-native technologies such as Kubernetes and Docker, and deepening my expertise in modern front-end frameworks like Angular.<br><br>💬 Ask me about: Building scalable microservices, RESTful API design, or how to optimize your full-stack applications using Spring Boot and Angular.<br><br>⚡ Fun fact: When I'm not coding, I love exploring new tech gadgets, and I’ve built a few hobby projects involving home automation using Raspberry Pi!"<br>
 
 
 ## 🌐 Socials:
